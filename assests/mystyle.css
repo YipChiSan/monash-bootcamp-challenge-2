@@ -132,37 +132,6 @@ img {
     object-fit:cover;
 }
 
-button {
-    font-size: 32px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    margin-top: 20px;
-    background-color: #051e27;
-    color: white;
-    border: none;
-    padding-top: 0.3em;
-    padding-bottom: 0.3em;
-    padding-left: 0.8em;
-    padding-right: 0.8em;
-    border-radius: 5px;
-}
-
-    button:hover {
-        background-color: #15799e;
-        cursor:pointer;
-    }
-
-    button > p {
-        display: inline-block;
-        margin-top:0;
-        margin-bottom:0;
-    }
-
-    button:hover > p {
-        transform: translateX(3px);
-    }
-
 #contact {
     display: flex;
     flex-direction: column;
@@ -227,5 +196,10 @@ button {
 @media screen and (max-width: 900px) {
     #content > a {
         width: 90%;
+    }
+
+    nav {
+        flex-direction: column;
+        text-align: center;
     }
 }
