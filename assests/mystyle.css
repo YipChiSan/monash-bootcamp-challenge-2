@@ -214,6 +214,16 @@ button {
     }
 }
 
+@media screen and (max-width: 1000px) {
+    #about>h1 {
+        font-size: 40px;
+    }
+
+    #about > p {
+        width: 100%;
+    }
+}
+
 @media screen and (max-width: 900px) {
     #content > a {
         width: 90%;
