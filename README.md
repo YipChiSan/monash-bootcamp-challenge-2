@@ -17,10 +17,10 @@ GIVEN I need to sample a potential employee's previous work
 
 ## Deployment
 
-My website is available [here](#.
+My website is available [here](https://yipchisan.github.io/monash-bootcamp-challenge-2/).
 
 ## Screenshot
 
 How my website looks like
 
-![Screenshot](#)
+![Screenshot](./assests/images/yipchisan.github.io_monash-bootcamp-challenge-2_screenshot.png)
