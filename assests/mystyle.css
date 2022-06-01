@@ -213,3 +213,9 @@ footer > div > a > p{
         text-align: center;
     }
 }
+
+@media screen and (max-width: 600px) {
+    #work> p:first-of-type {
+        font-size: 30px;
+    }
+}
