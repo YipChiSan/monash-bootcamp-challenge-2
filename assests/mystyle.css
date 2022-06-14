@@ -79,6 +79,9 @@ nav {
     text-decoration: none;
     width: 25%;
     color: white;
+    border-color: #051e27;
+    border-width: 1px;
+    border-style: solid;
 }
 
     .product p {
